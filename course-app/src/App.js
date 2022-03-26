@@ -40,7 +40,7 @@ const App = () => {
         <img className="center" src={witCrest} alt="logo" />
       </header>
       <div className="course">
-        <Course title={name} modules={modules} />
+        <Course course={name} modules={modules} />
       </div>
     </>
   );

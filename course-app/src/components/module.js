@@ -3,8 +3,9 @@ import React from "react"
 const Module = (props) => {
     return (
         <tr>
-            <td>{props.description.a}</td>
-            <td>{props.description.b}</td>
+            <td>{props.description.name}</td>
+            <td>{props.description.noLectures}</td>
+            <td>{props.description.noPracticals}</td>
         </tr>
     );
 
