@@ -33,7 +33,6 @@ const App = () => {
     }
    ];
   const name = "MSc Enterprise Software Systems" // Substitute
-
   return (
     <>
       <header className="App-header">
