@@ -5,7 +5,7 @@ This lab introduces the create-react-app (CRA) tool. While Storybook is a tool f
 **npx create-react-app course-app**
 **cd course-app**
 
-| **Create a React Application**  |                                          | **Console Output**                                         | **Code**                                                   |     **Component Hierarchy**                              | 
+| **Create a React Application**  |  **Console Output**                      | **Code**                                                   | **Stateful Component**                                     |     **Component Hierarchy**                              | 
 | --------------------------------| -----------------------------------------| --------------------------------------------------------   | --------------------------------------------------------   | -------------------------------------------------------- |
 | 1-Start up                      |  [View](https://i.imgur.com/0BsKVhk.png) |                                                            |                                                            |                                                          |
 | 2-Components                    |                                          |  [View Course Component](https://i.imgur.com/pGN3EHM.png)  |                                                            |                                                          |
